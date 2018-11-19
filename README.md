@@ -25,15 +25,18 @@ Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan
 *  Control del Versiones `GIT / GitHub / GitLab`  
 *  Creacion de Servicios / Manejo de Multi hilos / Creacion de Pixeles Independientes y Personalizados.
 
-## Frameworks
+## Frameworks y Herramientas Más Usadas
 * [Codeigniter](https://www.codeigniter.com/)
 * [Compouser](https://getcomposer.org/)
 * [Laravel 4/5](https://laravel.com/)
 * [JQuery](https://jquery.com/)
-* [Vue](http://vuejs.org/)
+* [VueJs](http://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Bootstrap](http://getbootstrap.com/) 
 * [Foundation](https://foundation.zurb.com/)
+* [Amazon AWS](https://aws.amazon.com/es/)
+* [WebPack](https://webpack.js.org/)
+* [NodeJs](http://nodejs.org/)
 
 ## Proyectos o Trabajos Resaltantes Realizados
 
