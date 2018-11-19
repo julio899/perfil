@@ -11,6 +11,7 @@
 Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan:
 * `Java / Java JEE` formacion academica con certificacion en IBM Venezuela.
 * `Php` Con mas de 7 Años de experiencia con proyectos reales.
+   ( Manejo de Atoloaders y estandares PSR)
 * `HTML5 / CSS3 / Wordpress / OpentCart` También la creacion de pluguins para OpenCat  y Wordpress. 
 * `JavaScript` Uso de Estandares moderos ES5 / ES6.
 * `TypeScript` 
