@@ -7,7 +7,7 @@
 **[View Live Preview](http://links.ktuxca.com/)**
 
 
-## Manejo de Herramientas Habilidades y Destrezas
+## Manejo de Tecnologías Habilidades y Destrezas
 Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan:
 * `Java / Java JEE` formacion academica con certificacion en IBM Venezuela.
 * `Php` Con mas de 7 Años de experiencia con proyectos reales.
@@ -24,6 +24,16 @@ Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan
 * `API REST / RESTFULL` Creación e implementacion de APIS REMOTAS y servicios externos.  
 *  Control del Versiones `GIT / GitHub / GitLab`  
 *  Creacion de Servicios / Manejo de Multi hilos / Creacion de Pixeles Independientes y Personalizados.
+
+## Frameworks
+* [Codeigniter](https://www.codeigniter.com/)
+* [Compouser](https://getcomposer.org/)
+* [Laravel 4/5](https://laravel.com/)
+* [JQuery](https://jquery.com/)
+* [Vue](http://vuejs.org/)
+* [Angular](https://angular.io/)
+* [Bootstrap](http://getbootstrap.com/) 
+* [Foundation](https://foundation.zurb.com/)
 
 ## Proyectos o Trabajos Resaltantes Realizados
 
