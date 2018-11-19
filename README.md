@@ -1,74 +1,34 @@
 # [Presentación - Julio Vinachi](http://links.ktuxca.com/)
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
 ## Preview
 
-[![Grayscale Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
+[![Vista Previa](https://s3.us-east-2.amazonaws.com/autoridadpura/img/us-east-1-preview.png)](http://ktuxca.com/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
-## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-grayscale/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-grayscale.svg)](https://www.npmjs.com/package/startbootstrap-grayscale)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale?type=dev)
+## Manejo de Herramientas Habilidades y Destrezas
+Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan:
+* `Java / Java JEE` formacion academica con certificacion en IBM Venezuela.
+* `Php` Con mas de 7 Años de experiencia con proyectos reales.
+* `HTML5 / CSS3 / Wordpress / OpentCart` También la creacion de pluguins para OpenCat  y Wordpress. 
+* `JavaScript` Uso de Estandares moderos ES5 / ES6.
+* `TypeScript` 
+* `NodeJs / Angular / VueJs` 
+* `SQL / MySql / Postgresql / ODBC / Amazon RDS`
+* `Entorno Linux/UNIX` Buen desenvolvimiento en Servidores e Intancias Debian / Ubuntu / CentOS
+* `Amazon EC2 / VPS`
+* `ShellScript / Bash` creacion de rutinas .sh, configuraciones precisas para servidores Apache.
+*  Buen Desenvolvimiento en entorno Amazon AWS 
+* `API REST / RESTFULL` Creación e implementacion de APIS REMOTAS y servicios externos.  
+*  Control del Versiones `GIT / GitHub / GitLab`  
+*  Creacion de Servicios / Manejo de Multi hilos / Creacion de Pixeles Independientes y Personalizados.
 
-## Download and Installation
+## Proyectos o Trabajos Resaltantes Realizados
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/)
-* Install via npm: `npm i startbootstrap-grayscale`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-grayscale.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-grayscale)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Troubleshooting and Help
-
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
+Al pasar de los años, he podido adquirir mucha experiencia en diversas áreas, pudiendo alcanzar muchos retos, uno de los últimos avances que he podido adquirir es la programación reactiva en donde he podido realizar paneles en donde los usuarios pudieran tener una vista previa de los mismos e igualmente pudieran editarlos en la misma vista previa, todo esto trabajando en tiempo real, así mismo a partir del 2018, manejando tecnologías Cloud especificamente servicios de Amazon (Amazon AWS) tanto la administración y configuración de todas las instancias y servicios que requería la creación de las aplicaciones, no solo limitandome a la creación de la aplicación sino también a la configuración de librerías precisas requeridas ara el servidor, rutinas he instalación de certificados SSL de forma manual por configuraciones en Apache, y corrección de vulnerabilidades.
 
 **[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+## Acerca de mi
+Hola soy Julio Cesar Vinachi, Desarrollador web full stack, desde el 2009 he estado apasionado, en este mundo del desarrollo web, me considero autodidacta y nunca he parado de aprender, desde muy temprana edad siempre me a gustado crear cosas, el saber como se hacen y como hacerlas. Muy agradecido con Dios, por poner esa inquietud y curiosidad constante en mi ser, no me conformo con decir un no lo se, o no se puede, siempre existe una manera de hacer las cosas si no existe un camino se crea, en este campo de la tecnología siempre hay algo nuevo que aprender nuevos lenguajes nuevas maneras de mejorar y hacer las cosas, bueno así soy yo.
