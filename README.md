@@ -18,7 +18,7 @@ Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan
 * `NodeJs / Angular / VueJs` 
 * `SQL / MySql / Postgresql / ODBC / Amazon RDS`
 * `Entorno Linux/UNIX` Buen desenvolvimiento en Servidores e Intancias Debian / Ubuntu / CentOS
-* `Amazon EC2 / VPS`
+* `Amazon EC2 / Amazon S3 / VPS`
 * `ShellScript / Bash` creacion de rutinas .sh, configuraciones precisas para servidores Apache.
 *  Buen Desenvolvimiento en entorno Amazon AWS 
 * `API REST / RESTFULL` Creación e implementacion de APIS REMOTAS y servicios externos.  
