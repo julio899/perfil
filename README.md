@@ -27,7 +27,7 @@ Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan
 
 ## Frameworks y Herramientas Más Usadas
 * [Codeigniter](https://www.codeigniter.com/)
-* [Compouser](https://getcomposer.org/)
+* [Composer](https://getcomposer.org/)
 * [Laravel 4/5](https://laravel.com/)
 * [JQuery](https://jquery.com/)
 * [VueJs](http://vuejs.org/)
