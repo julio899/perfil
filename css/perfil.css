@@ -86,7 +86,7 @@ a.navbar-brand > i.devicon-angularjs-plain:hover{
 }
 
 a.navbar-brand > i.devicon-vuejs-plain-wordmark:hover{
-    color: #fff;
+    color: #fff!important;
     text-shadow: 1px 1px 10px #FFE;
 }
 
