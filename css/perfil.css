@@ -102,7 +102,7 @@ a.navbar-brand > i.devicon-typescript-plain:hover{
       text-shadow: 2px 2px 2px rgb(255,255,255);
 }
 
-a.navbar-brand > devicon-linux-plain:hover{
+a.navbar-brand > i.devicon-linux-plain:hover{
     color: #000!important;
 }
 
