@@ -1,0 +1,68 @@
+
+      @import url('https://fonts.googleapis.com/css?family=Playball');
+      @import url('https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css');
+    
+    h1.titulo{
+      font-family: 'Playball', cursive;
+      letter-spacing: 0.1rem!important;
+    }
+    a.navbar-brand i{
+      font-size: 2.5em;
+    }
+    div.mx-auto.text-center{
+    background-color: rgb(0,0,0,0.5);
+    padding: 2em;
+    border-radius: 7px;
+    }
+    
+    div.contenedor-video{/*
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 100%;
+      height: 100vh;
+      overflow: hidden;*/
+
+    }
+    div.contenedor-video>video{
+      width: 100%;
+      height: 100%;
+    }
+    .nav-item a{
+          font-weight: 800;
+    }
+    #video{
+
+    z-index: 0;
+    position: absolute;
+    margin-top: -10rem;
+    opacity: 0.25;
+    height: auto;
+    }
+    div.card-body.text-center i{
+      font-size: 4em;
+    }
+    .lbl-contact,.lbl-contact a{
+      font-size: 1.3em;
+    }
+    header.masthead > div > div{
+      min-width: 60%;
+    }
+    .txt_about{
+      text-align: justify;
+      font-size: 1.2em;
+      text-indent: 3em;
+    }
+    #about{
+      padding-top: 5em;
+    }
+    .txt_estilo{
+      font-family: 'Playball', cursive;
+      letter-spacing: 0.1rem!important;
+      font-size: 3.5em;
+    }
+
+#particulas{
+      position: absolute;
+      margin-top: -77px;
+    }
