@@ -54,7 +54,7 @@
       text-indent: 3em;
     }
     #about{
-      padding-top: 5em;
+      padding-top: 1em;
     }
     .txt_estilo{
       font-family: 'Playball', cursive;
@@ -64,5 +64,4 @@
 
 #particulas{
       position: absolute;
-      margin-top: -77px;
     }
