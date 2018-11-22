@@ -57,7 +57,7 @@
       padding-top: 1em;
       height: -webkit-fill-available;
       height:-moz-max-content;
-          padding-bottom: 5%;
+          padding-bottom: 0%;
     }
     .txt_estilo{
       font-family: 'Playball', cursive;
