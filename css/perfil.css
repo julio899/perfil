@@ -72,5 +72,5 @@
     }
 a.navbar-brand > i:hover{
       color: slategray;
-      text-shadow: 2px 2px 2px rgb(255,255,255,0.5);
+      text-shadow: 2px 2px 2px rgb(255,255,255);
 }
