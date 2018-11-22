@@ -74,3 +74,9 @@ a.navbar-brand > i:hover{
       color: slategray;
       text-shadow: 2px 2px 2px rgb(255,255,255);
 }
+a.navbar-brand > i.devicon-codeigniter-plain-wordmark:hover,
+a.navbar-brand > i.devicon-laravel-plain-wordmark:hover{
+      color: #ff2d00db!important;
+       text-shadow:0px 0px 0px transparent!important;
+
+}
