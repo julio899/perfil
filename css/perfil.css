@@ -98,7 +98,7 @@ a.navbar-brand > i.devicon-bitbucket-plain-wordmark:hover{
 }
 a.navbar-brand > i.devicon-typescript-plain:hover{
     color: #075d98;
-    text-shadow:0px 0px 0px transparent!important;
+      text-shadow: 2px 2px 2px rgb(255,255,255);
 }
 
 a.navbar-brand > devicon-linux-plain:hover{
