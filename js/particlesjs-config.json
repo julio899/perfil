@@ -1,4 +1,4 @@
-  {
+{
   "particles": {
     "number": {
       "value": 58,
@@ -8,7 +8,7 @@
       }
     },
     "color": {
-      "value": "#1b1e34"
+      "value": "#161616"
     },
     "shape": {
       "type": "polygon",
@@ -36,7 +36,7 @@
       }
     },
     "size": {
-      "value": 39.45738208161363,
+      "value": 23.67442924896818,
       "random": false,
       "anim": {
         "enable": true,
