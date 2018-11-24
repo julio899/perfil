@@ -53,12 +53,14 @@
       font-size: 1.2em;
       text-indent: 3em;
     }
+  /*
     #about{
       padding-top: 1em;
       height: -webkit-fill-available;
       height:-moz-max-content;
           padding-bottom: 0%;
     }
+  */
     .txt_estilo{
       font-family: 'Playball', cursive;
       letter-spacing: 0.1rem!important;
@@ -109,4 +111,11 @@ a.navbar-brand > i.devicon-linux-plain:hover{
 #signup{
   padding-top: 4em;
   padding-bottom: 5em;
+}
+div.habilidades,
+div.habilidades p h3{
+  color: #fff
+}
+.about-section{
+  padding-bottom: 10rem;
 }
