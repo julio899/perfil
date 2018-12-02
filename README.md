@@ -1,10 +1,10 @@
-# [Presentación - Julio Vinachi](http://links.ktuxca.com/)
+# [Presentación - Julio Vinachi](http://jv.ktuxca.com/)
 
 ## Preview
 
-[![Vista Previa](https://s3.us-east-2.amazonaws.com/autoridadpura/img/us-east-1-preview.png)](http://ktuxca.com/)
+[![Vista Previa](https://s3.us-east-2.amazonaws.com/autoridadpura/img/us-east-1-preview.png)](http://jv.ktuxca.com/)
 
-**[View Live Preview](http://links.ktuxca.com/)**
+**[View Live Preview](http://jv.ktuxca.com/)**
 
 
 ## Manejo de Tecnologías Habilidades y Destrezas
