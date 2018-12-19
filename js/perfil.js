@@ -7,3 +7,4 @@ particlesJS.load('particulas', 'js/particlesjs-config.json', function() {
 // now i need implement  sw / fetch / asyc awey / SPA / PWA / socket.io / and cors domain
 // check more dependency
 // the list the control
+// sound display 1 warning in console and no is runing check in delay
