@@ -8,3 +8,4 @@ particlesJS.load('particulas', 'js/particlesjs-config.json', function() {
 // check more dependency
 // the list the control
 // sound display 1 warning in console and no is runing check in delay
+// ------------ ------------ ------------ ------------ ------------ ------------ ------------
