@@ -9,6 +9,7 @@ particlesJS.load('particulas', 'js/particlesjs-config.json', function() {
 // the list the control
 // sound display 1 warning in console and no is runing check in delay
 // implement AngularJs in webClaro - wait for Carlos
+// some nights, learning some new in Angular
 // ------------ ------------ ------------ ------------ ------------ ------------ ------------
 // https://www.browserling.com/tools/text-to-html-entities
 /*
