@@ -12,6 +12,7 @@ particlesJS.load('particulas', 'js/particlesjs-config.json', function() {
 // some nights, learning some new in Angular
 // ------------ ------------ ------------ ------------ ------------ ------------ ------------
 // https://www.browserling.com/tools/text-to-html-entities
+// work in claro proyect
 /*
 bitbucket.org:julio899/ap-servicio-externo.git
    374d4c9..6b374c3  master -> master
