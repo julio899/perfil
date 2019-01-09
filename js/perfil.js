@@ -14,7 +14,7 @@ particlesJS.load('particulas', 'js/particlesjs-config.json', function() {
 // https://www.browserling.com/tools/text-to-html-entities
 // work in claro proyect
 
-// Much work and Day very Large. 08/01/2018
+// Much work and is a Day very Large.
 // Thanks my God.
 
 /*
