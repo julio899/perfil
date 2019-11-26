@@ -1,8 +1,8 @@
-# [Presentación - Julio Vinachi](http://jv.ktuxca.com/)
+# [Presentación - Julio Vinachi](http://julio899.github.io/perfil/)
 
 ## Preview
 
-[![Vista Previa](https://s3.us-east-2.amazonaws.com/autoridadpura/img/us-east-1-preview.png)](http://jv.ktuxca.com/)
+[![Vista Previa](https://s3.us-east-2.amazonaws.com/autoridadpura/img/us-east-1-preview.png)](http://julio899.github.io/perfil/)
 
 **[View Live Preview](http://jv.ktuxca.com/)**
 
@@ -29,6 +29,7 @@ Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan
 * [Codeigniter](https://www.codeigniter.com/)
 * [Composer](https://getcomposer.org/)
 * [Laravel 4/5](https://laravel.com/)
+* [Symfony 3/4](https://symfony.com/)
 * [JQuery](https://jquery.com/)
 * [VueJs](http://vuejs.org/)
 * [Angular](https://angular.io/)
