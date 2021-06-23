@@ -1,11 +1,5 @@
 # [Presentación - Julio Vinachi](http://julio899.github.io/perfil/)
 
-## Preview
-
-[![Vista Previa](https://s3.us-east-2.amazonaws.com/autoridadpura/img/us-east-1-preview.png)](http://julio899.github.io/perfil/)
-
-**[View Live Preview](http://jv.ktuxca.com/)**
-
 
 ## Manejo de Tecnologías Habilidades y Destrezas
 Ultimamente tambien manejo Programación Reactiva y Framewors que la implementan:
